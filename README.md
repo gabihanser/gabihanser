@@ -1,0 +1,4 @@
+- 👋  Olá meu nome é **gabrielleHanser**
+- 👍 Meu email de contato e gabrielle.haser@escola.pr.gov.br
+- 👀 Eu estou intere em apreder a programar novas liguagens
+- 🌱Eu estou aprendendo a programar recentemente a liguagem de javaScript e Scratch
